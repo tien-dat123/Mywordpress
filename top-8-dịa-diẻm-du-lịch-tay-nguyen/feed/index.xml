@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: TOP 8 ĐỊA ĐIỂM DU LỊCH TÂY NGUYÊN	</title>
+	<atom:link href="http://localhost/myproject/wordpress/top-8-di%CC%A3a-die%CC%89m-du-li%CC%A3ch-tay-nguyen/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tien-dat123.github.io/Mywordpress/top-8-di%cc%a3a-die%cc%89m-du-li%cc%a3ch-tay-nguyen/</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 18 Aug 2022 03:58:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+</channel>
+</rss>
