@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/sea-food/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tien-dat123.github.io/Mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 13 Oct 2022 07:21:02 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Oct 2022 08:51:22 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -90,18 +90,8 @@
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elitsi edo eiusmod senteas tempor incididunt ut labore et dolr emagna aliqua. Ut enim ad minim dano ris veniam quis]]></description>
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag na aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo conseq at duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p>
-<table class="woocommerce-product-attributes shop_attributes">
-<tbody>
-<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--weight">
-<th class="woocommerce-product-attributes-item__label">Weight</th>
-<td class="woocommerce-product-attributes-item__value">0.5 kg</td>
-</tr>
-<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--dimensions">
-<th class="woocommerce-product-attributes-item__label">Dimensions</th>
-<td class="woocommerce-product-attributes-item__value">36 × 28 × 10 cm</td>
-</tr>
-</tbody>
-</table>
+<p>Spaghetti (Italian pronunciation: [spaˈɡetti], Vietnamese: spa-hate-ti), commonly known as spaghetti, is a long, small, cylindrical pasta. It is an essential part of traditional Italian cuisine. Like many other pastas, spaghetti is made from ground flour and water. Italian spaghetti is made from semolina flour made from durum wheat, but in many places it can be made from many other types of flour.</p>
+<p>Originally, spaghetti was considerably long, but gradually shorter lengths of noodles became popular in the second half of the 20th century and at the present time spaghetti is mostly about 25-30 cm long. Many other pasta dishes are based on it.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://tien-dat123.github.io/Mywordpress/product/pasta/feed/</wfw:commentRss>
