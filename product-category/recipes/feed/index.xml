@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-category/recipes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tien-dat123.github.io/Mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 13 Oct 2022 06:47:31 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Oct 2022 01:05:05 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>CAKE RECIPES</title>
 		<link>https://tien-dat123.github.io/Mywordpress/product/cake-recipes/</link>
