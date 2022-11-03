@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>Products &#8211; My Project</title>
+	<title>Sản phẩm &#8211; My Project</title>
 	<atom:link href="http://localhost/myproject/wordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tien-dat123.github.io/Mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 20 Oct 2022 13:04:10 +0000</lastBuildDate>
-	<language>en-US</language>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>Gougères</title>
 		<link>https://tien-dat123.github.io/Mywordpress/product/gougeres/</link>

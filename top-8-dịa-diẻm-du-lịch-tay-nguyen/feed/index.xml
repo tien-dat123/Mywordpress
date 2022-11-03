@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments on: TOP 8 ĐỊA ĐIỂM DU LỊCH TÂY NGUYÊN	</title>
+	Các phản hồi luận về: TOP 8 ĐỊA ĐIỂM DU LỊCH TÂY NGUYÊN	</title>
 	<atom:link href="http://localhost/myproject/wordpress/top-8-di%CC%A3a-die%CC%89m-du-li%CC%A3ch-tay-nguyen/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tien-dat123.github.io/Mywordpress/top-8-di%cc%a3a-die%cc%89m-du-li%cc%a3ch-tay-nguyen/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 </channel>
 </rss>

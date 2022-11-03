@@ -13,12 +13,12 @@
 	<link>https://tien-dat123.github.io/Mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 02 Nov 2022 13:34:07 +0000</lastBuildDate>
-	<language>en-US</language>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>Quán bar đẹp và nơi giải trí cực đỉnh Nhất định phải đến 1 Lần  trong đời</title>
 		<link>https://tien-dat123.github.io/Mywordpress/nhung-quan-bar-dep/</link>
@@ -55,7 +55,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img width="1200" height="800" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/10/sky21bar-belle-maison.jpg" alt="" class="wp-image-716"/><figcaption>ảnh này lấy cắp</figcaption></figure></div>
+<figure class="aligncenter size-full"><img decoding="async" width="1200" height="800" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/10/sky21bar-belle-maison.jpg" alt="" class="wp-image-716"/><figcaption>ảnh này lấy cắp</figcaption></figure></div>
 
 
 <h2><strong>2. Saigon Soul Pool Party &amp; Dayclub</strong> </h2>
@@ -82,7 +82,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="757" height="1200" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/10/best-pool-in-saigon-h.jpg" alt="Quán bar đẹp" class="wp-image-717"/></figure></div>
+<figure class="aligncenter size-full"><img decoding="async" loading="lazy" width="757" height="1200" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/10/best-pool-in-saigon-h.jpg" alt="Quán bar đẹp" class="wp-image-717"/></figure></div>
 
 
 <h2>3.The World of Heineken</h2>
@@ -97,7 +97,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="1200" height="688" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/10/highest-heineken-world.jpg" alt="" class="wp-image-718"/></figure></div>
+<figure class="aligncenter size-full"><img decoding="async" loading="lazy" width="1200" height="688" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/10/highest-heineken-world.jpg" alt="" class="wp-image-718"/></figure></div>
 
 
 <h2>4.THI BAR</h2>
@@ -116,7 +116,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="1200" height="896" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/10/photo1jpg.jpg" alt="" class="wp-image-719"/></figure></div>
+<figure class="aligncenter size-full"><img decoding="async" loading="lazy" width="1200" height="896" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/10/photo1jpg.jpg" alt="" class="wp-image-719"/></figure></div>
 
 
 <h2>5.Gallery Drinkery</h2>
@@ -139,7 +139,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="1200" height="638" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/10/shrine-cocktails-dining.jpg" alt="" class="wp-image-720"/></figure></div>
+<figure class="aligncenter size-full"><img decoding="async" loading="lazy" width="1200" height="638" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/10/shrine-cocktails-dining.jpg" alt="" class="wp-image-720"/></figure></div>
 
 
 <h2>6.Glow Rooftop Lounge</h2>
@@ -190,8 +190,8 @@
 
 
 
-<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img data-id="12"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/tai-xuong.jpg" alt="" class="wp-image-12"/></figure>
+<figure class="is-layout-flex wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><img decoding="async" data-id="12"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/tai-xuong.jpg" alt="" class="wp-image-12"/></figure>
 </figure>
 
 
@@ -220,8 +220,8 @@
 
 
 
-<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img data-id="13"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/Nha-day-BMT-06-1612176636.jpg" alt="" class="wp-image-13"/><figcaption>Cảnh lính Pháp canh các chiến sỹ Lmà việc</figcaption></figure>
+<figure class="is-layout-flex wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><img decoding="async" data-id="13"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/Nha-day-BMT-06-1612176636.jpg" alt="" class="wp-image-13"/><figcaption>Cảnh lính Pháp canh các chiến sỹ Lmà việc</figcaption></figure>
 </figure>
 
 
@@ -234,7 +234,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/Nha_rong_Kon_Klor.jpg" alt="" class="wp-image-14"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/Nha_rong_Kon_Klor.jpg" alt="" class="wp-image-14"/></figure>
 
 
 
@@ -246,8 +246,8 @@
 
 
 
-<figure class="wp-container-6 wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img data-id="15"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/dray-sap-6.jpg" alt="" class="wp-image-15"/></figure>
+<figure class="is-layout-flex wp-block-gallery-5 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><img decoding="async" data-id="15"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/dray-sap-6.jpg" alt="" class="wp-image-15"/></figure>
 </figure>
 
 
@@ -264,8 +264,8 @@
 
 
 
-<figure class="wp-container-8 wp-block-gallery-7 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img data-id="16"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/thung-lung-tinh-yeu-da-lat.jpg" alt="" class="wp-image-16"/></figure>
+<figure class="is-layout-flex wp-block-gallery-7 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><img decoding="async" data-id="16"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/thung-lung-tinh-yeu-da-lat.jpg" alt="" class="wp-image-16"/></figure>
 </figure>
 
 
@@ -282,8 +282,8 @@
 
 
 
-<figure class="wp-container-10 wp-block-gallery-9 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img data-id="17"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/ho-ta-dung1.png" alt="" class="wp-image-17"/></figure>
+<figure class="is-layout-flex wp-block-gallery-9 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><img decoding="async" data-id="17"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/ho-ta-dung1.png" alt="" class="wp-image-17"/></figure>
 </figure>
 
 
@@ -300,8 +300,8 @@
 
 
 
-<figure class="wp-container-12 wp-block-gallery-11 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img data-id="18"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/canh-dep-langbiang.jpg" alt="" class="wp-image-18"/></figure>
+<figure class="is-layout-flex wp-block-gallery-11 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><img decoding="async" data-id="18"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/canh-dep-langbiang.jpg" alt="" class="wp-image-18"/></figure>
 </figure>
 
 
@@ -318,8 +318,8 @@
 
 
 
-<figure class="wp-container-14 wp-block-gallery-13 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img data-id="20"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/ho-lak-buon-me-thuot-2.jpg" alt="" class="wp-image-20"/></figure>
+<figure class="is-layout-flex wp-block-gallery-13 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><img decoding="async" data-id="20"  src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/08/ho-lak-buon-me-thuot-2.jpg" alt="" class="wp-image-20"/></figure>
 </figure>
 
 

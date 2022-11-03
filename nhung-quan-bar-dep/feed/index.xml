@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments on: Quán bar đẹp và nơi giải trí cực đỉnh Nhất định phải đến 1 Lần  trong đời	</title>
+	Các phản hồi luận về: Quán bar đẹp và nơi giải trí cực đỉnh Nhất định phải đến 1 Lần  trong đời	</title>
 	<atom:link href="http://localhost/myproject/wordpress/nhung-quan-bar-dep/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tien-dat123.github.io/Mywordpress/nhung-quan-bar-dep/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 </channel>
 </rss>
