@@ -12,8 +12,8 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tien-dat123.github.io/Mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 02 Nov 2022 13:34:07 +0000</lastBuildDate>
-	<language>vi</language>
+	<lastBuildDate>Sat, 05 Nov 2022 09:31:44 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -47,7 +47,7 @@
 
 
 
-<p>quán bar đầu tiên  phải kể đến <strong><em>Bar Club</em></strong> Sky 21 Bar tại đhu vực216 Võ Nguyên Giáp Tầng 21. Là một quán bar khá lâu đời và nổi tiếng ở đà nẵng, Sky 21 bar sở hữu một không gian sang trọng cùng phong cách phục vụ chuyên nghiệp.</p>
+<p>quán bar đầu tiên  phải kể đến <strong><em>Bar Club</em></strong> Sky 21 Bar tại đhu vực 216  Tầng 21. Là một quán bar khá lâu đời và nổi tiếng ở đà nẵng, Sky 21 bar sở hữu một không gian sang trọng cùng phong cách phục vụ chuyên nghiệp.</p>
 
 
 
@@ -55,7 +55,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img decoding="async" width="1200" height="800" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/10/sky21bar-belle-maison.jpg" alt="" class="wp-image-716"/><figcaption>ảnh này lấy cắp</figcaption></figure></div>
+<figure class="aligncenter size-full"><img decoding="async" width="1200" height="800" src="https://tien-dat123.github.io/Mywordpress/wp-content/uploads/2022/10/sky21bar-belle-maison.jpg" alt="" class="wp-image-716"/><figcaption class="wp-element-caption">ảnh này lấy cắp</figcaption></figure></div>
 
 
 <h2><strong>2. Saigon Soul Pool Party &amp; Dayclub</strong> </h2>
@@ -155,11 +155,7 @@
 
 
 <p> </p>
-
-
-<p> <a href="https://tien-dat123.github.io/Mywordpress/wp-admin/post.php?post=1&amp;action=edit</a></p>
-<div style=" width:480px"=""><iframe loading="lazy" allow="fullscreen" frameborder="0" height="201" src="https://giphy.com/embed/ycIskhVN7cgoeo36u8/video" width="480"></iframe>
-</a></p>]]></content:encoded>
+]]></content:encoded>
 					
 					<wfw:commentRss>https://tien-dat123.github.io/Mywordpress/nhung-quan-bar-dep/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
